@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a Linux and Cloud engineer developing software in Go, C, Rust, Python and all manners of Lisp and Scheme.  I currently work for HDI Systems in the Cloud Competence Centre, in Hannover, Germany.  In the past I've had the fortune to work Canonical, Thomson Reuters, Heetch and Cmed Technology.
+I'm a Linux and Cloud engineer developing software in Go, C, Rust, Python and all manners of Lisp and Scheme.  I currently work for HDI Systems in the Cloud Competence Centre, in Hannover, Germany.  In the past I've had the fortune to work for Canonical, Thomson Reuters, Heetch and Cmed Technology.
 
 - 🔭 I’m currently working on everything and anything.
 - 🌱 I’ve just spent some time learning Rust, and now I'm going back to look at Carp again.
