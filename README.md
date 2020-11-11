@@ -25,4 +25,4 @@ I'm a Linux and Cloud engineer developing software in Go, C, Rust, Python and al
 - ⚡ Fun fact: I basically never use Excel.
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tealeg&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
