@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My background is in Linux and Cloud engineering, developing software in Go, C, Rust, Python and all manners of Lisp and Scheme.  These days I specialise in Developer eXperience, and I currently work Upvest GmbH, Germany.  In the past I've had the fortune to work for Canonical, Thomson Reuters, Heetch and Cmed Technology.
+My background is in Linux and Cloud engineering, developing software in Go, C, Rust, Python and all manners of Lisp and Scheme.  These days I specialise in Developer eXperience, and I currently work Upvest GmbH, Germany.  In the past I've had the fortune to work for Canonical, Thomson Reuters, Heetch, HDI and Cmed Technology.
 
-- 🔭 I’m currently writing a book about Developer eXperience (DX) in global businesses.
+- 🔭 I'm currently focussed on how to improve DX around commercial APIs.
 - 🌱 Current research interests: RISC-V, new generation systems languages (Rust, Zig, Carp). 
-- 🤔 I’m looking for help with XLSX - a go library I wrote more than a decade ago.
 - 💬 Ask me about anything, you never know I *might* answer.
 - 📫 How to reach me: tealeg@gmail.com
 - 😄 Pronouns: He/Him
